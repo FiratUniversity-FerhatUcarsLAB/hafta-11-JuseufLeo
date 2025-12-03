@@ -1,3 +1,13 @@
+/*
+ * Ad Soyad: Yusuf Aslan
+ * Ogrenci No: 250541068
+ * Tarih: 03.12.2025
+ */
+
+
+
+
+
 public class DatePrinter {
 
     public static void main(String[] args) {
