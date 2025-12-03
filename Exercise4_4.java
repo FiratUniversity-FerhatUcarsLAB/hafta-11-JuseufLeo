@@ -1,3 +1,14 @@
+/*
+ * Ad Soyad: Yusuf Aslan
+ * Ogrenci No: 250541068
+ * Tarih: 03.12.2025
+ */
+
+
+
+
+
+
 public class Exercise4_4 {
 
     public static int getNumber() {
